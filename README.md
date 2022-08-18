@@ -1,3 +1,1 @@
-Sentiment-Analysis-On-E-Clothing-Reviews
-
--Analysis of Women's E-Commerce Clothing Reviews
+Sentiment Analysis on Women's E-Commerce Clothing Reviews
